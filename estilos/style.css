@@ -48,8 +48,11 @@ section#login > div#imagem{
 section#logim > div#formulario{
     display: block;
     padding: 10px;
- 
+    ;
     
+}
+div#formulario{
+    margin: 10px;
 }
 div#formulario > h1{
     text-align: center;
