@@ -33,12 +33,18 @@ Grandes telas: acima de 1200
         width: 990px;
     }
     section#login > div#imagem{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
     section#login > div#formulari{
-        float: right;
+        float: left;
         width: 50%;
     }
+    Div#formulario > h1{
+        font-size: 2em;
+    }
+    div#formulario > p{
+    font-size: 1.2em;
+}
 }
